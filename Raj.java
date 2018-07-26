@@ -7,7 +7,7 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-	int n=0;
+	int n=7;
 		
 	if(n%2==0)
 		{
