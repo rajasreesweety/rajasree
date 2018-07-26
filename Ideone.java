@@ -11,11 +11,11 @@ class Ideone
 		
 		if(number>0)
 		{
-			System.out.println("Number is Positive");
+			System.out.println("Positive");
 		}
 		else
 		{
-			System.out.println("number is Negative");
+			System.out.println("Negative");
 		}
 	}
 }
