@@ -7,7 +7,7 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		int number=10;
+		int number=-1;
 		
 		if(number>0)
 		{
